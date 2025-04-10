@@ -152,4 +152,4 @@
 
 ## Задание №2
 
-Реализация схемы разбиения монолитного приложения на микросервисы находится по ссылке: https://app.diagrams.net/#G10kwzRC13mQZgNAZ8ReL8oerlyEYHOAuo#%7B%22pageId%22%3A%22Sy1I-hE5mwUO8veNno_1%22%7D
+Реализация схемы разбиения монолитного приложения на микросервисы находится по ссылке: https://drive.google.com/file/d/10kwzRC13mQZgNAZ8ReL8oerlyEYHOAuo/view
